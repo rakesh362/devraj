@@ -1,0 +1,93 @@
+
+
+Hi ,
+
+Please attach the approval mail in case notes.
+
+Regards
+Rakesh
+
+https://toolbox.cisco.com/cases/1496879
+
+Hi ,
+
+For Business Critical, High Priority Cases respective BU Director Approval is needed.
+Please get your BU Director Approval email with the Toolbox Case Number and attach the email or cut & paste the approval in the case notes.
+
+Note: Need to change case Urgency
+
+Thanks & Regards
+Rakesh
+
+cut and paste in the case note with case id of directoe approval
+
+Hi,
+
+Note: Need to change states of case for high or critical Urgency Cases .
+
+
+Regards
+Rakesh
+
+Hi ,
+Kindly provide  SFP  and cables for above connections requirement. and we not have any SFP in the store.Kindly provide me the same.
+
+
+Regards
+Rakesh
+
+Hi ,
+
+kindly share the serial no/ bond no of the required optics/pluggables.
+
+regards,
+Rakesh
+
+
+
+Hi Karthik,
+Kindly mention the slot with the console details with port details.
+
+Regards
+Rakesh
+
+Hi Anisha,
+Kindly mention the serial no of the cards.
+
+Regards
+Rakesh
+
+Hi neha
+Kindly mention the serial no and slot with the console details .
+
+Regards
+Rakesh
+
+
+
+Hi Malu,
+Kindly mention the console details to move the cards from one router to another.
+
+
+Regards
+Rakesh
+
+
+Hi Srinivas
+For Business Critical, High Priority Cases respective BU Director Approval is needed.
+we will not consider manager approval
+any physical activity, we need BU Director approval is needed.
+
+
+
+
+
+i have forwarded your case to our team, they will check and update you the same, as per queue of the cases.
+
+we have so many cases, so limited no of lab support--they will update you the same.
+
+
+
+https://toolbox.cisco.com/cases/1473471
+https://toolbox.cisco.com/cases/1473473
+
